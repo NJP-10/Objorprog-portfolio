@@ -1,1 +1,5 @@
+Prerequisites
 
+Python 3.6 or later: Django requires Python 3.6 or newer.
+Git: For cloning the project repository.
+pip: Python's package installer (comes with Python 3.6+).
